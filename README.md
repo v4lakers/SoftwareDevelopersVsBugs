@@ -5,6 +5,11 @@ Bill Gates, Jeff Bezos, Elon Musk, Mark Zuckerberg. What do all these legends ha
 
 # Gameplay
 
+## Begin
+
+To run the game, run the script Game.java
+mvc/controller/Game.java
+
 
 ## Weapons
 
